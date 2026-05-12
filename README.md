@@ -117,6 +117,6 @@ A real-time messaging system built to demonstrate WebSocket communication and ba
 
 * GitHub: [https://github.com/sandraremon](https://github.com/sandraremon)
 * LinkedIn: [https://www.linkedin.com/in/sandra-remon-036a68325/]
-*  Portfolio: [https://sandraremon.github.io/#projects]
+*  Portfolio: [https://sandraremon.github.io/]
 
 ---
