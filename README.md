@@ -34,9 +34,9 @@ I also have experience mentoring and teaching, helping others grow in backend de
 
 ### 🔗 InternMap (Full Stack System)
 
-A platform designed to connect interns with opportunities and manage internship data efficiently. Built using multiple backend implementations to demonstrate scalability and architecture differences.
+A full-stack platform designed to connect interns with opportunities and manage internship data efficiently. The system includes both backend services and frontend interfaces, along with real-time notification features.
 
-**Tech Stack:** Laravel / Spring Boot / MySQL
+**Tech Stack:** Laravel / Spring Boot / MySQL / WebSockets (STOMP) / Bootstrap / Blade
 
 **Key Features:**
 
@@ -45,14 +45,17 @@ A platform designed to connect interns with opportunities and manage internship 
 * Admin dashboard for managing internships and users
 * RESTful API design (Spring Boot version)
 * MVC architecture implementation (Laravel version)
+* Real-time notifications using STOMP over WebSockets
+* Event-driven updates for user interactions and system alerts
 
 **What I worked on:**
 
-* Built full backend system in both Laravel and Spring Boot
-* Designed and implemented database schema
+* Built full-stack implementations using both Laravel and Spring Boot
+* Designed and implemented database schema and relationships
 * Developed authentication and authorization systems
 * Implemented CRUD operations and admin controls
-* Compared monolithic MVC vs layered API architecture
+* Integrated real-time notification system using STOMP WebSockets
+* Compared monolithic MVC architecture vs layered API architecture
 
 ---
 
@@ -93,7 +96,7 @@ A real-time messaging system built to demonstrate WebSocket communication and ba
 
 * **Languages:** Java, PHP, Python, JavaScript
 * **Backend:** Spring Boot, Laravel, Django, FastAPI
-* **Frontend:** HTML, CSS, JavaScript (basic React)
+* **Frontend:** HTML, CSS, JavaScript ,React
 * **Databases:** MySQL, PostgreSQL
 * **Real-time:** WebSockets
 * **Tools:** Git, Postman, Docker (basic)
@@ -116,6 +119,3 @@ A real-time messaging system built to demonstrate WebSocket communication and ba
 * LinkedIn: [https://www.linkedin.com/in/sandra-remon-036a68325/]
 
 ---
-
-⭐ Always learning, always building.
-
