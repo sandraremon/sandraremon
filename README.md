@@ -107,7 +107,6 @@ A real-time messaging system built to demonstrate WebSocket communication and ba
 
 * System design & distributed systems
 * Scalable backend architectures
-* Cloud deployment basics
 * Advanced real-time systems
 * AI integration in backend services
 
